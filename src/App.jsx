@@ -5,7 +5,7 @@ import { CssBaseline, ThemeProvider, createTheme } from '@mui/material'
 import { themeSettings } from './theme.js'
 import { useSelector } from 'react-redux'
 import ErrorPage from '@/pages/ErrorPage/ErrorPage.jsx'
-import HomePage from '@/pages/HomePage/'
+import HomePage from '@/pages/HomePage/HomePage.jsx'
 
 const App = () => {
 
